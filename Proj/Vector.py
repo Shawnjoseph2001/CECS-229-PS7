@@ -1,5 +1,5 @@
 """ 
-Name: 
+Name: Shawn Joseph
 """
 class Vector:
 	
